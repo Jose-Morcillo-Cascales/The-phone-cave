@@ -8,6 +8,7 @@ Este proyecto es un reto donde se busca la visualización de una lista de teléf
 -Mongo Atlas
 -Axios
 -Express
+# Git clone
 
 # Instalaciones necesarias:
 - express boilerplate en server
