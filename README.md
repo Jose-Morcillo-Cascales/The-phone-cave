@@ -9,30 +9,26 @@ Este proyecto es un reto donde se busca la visualización de una lista de teléf
 -Axios
 -Express
 # Git clone
+```sh
+git clone https://github.com/Jose-Morcillo-Cascales/The-phone-cave.git
+```
 
 # Instalaciones necesarias:
-- express boilerplate en server
+- server
 ```sh
-npm install  express boilerplate
+npm install
 ```
-- create-react-app en client
+-  client
 
 ```sh
-npm install  create-react-app
+npm install
 ```
--react-router-dom
+# Activar:
+-server
 ```sh
-npm install  react-router-dom
+npm run dev
 ```
--axios
+-client
 ```sh
-npm install axios
-```
--bootstrap y react-bootstrap
-```sh
-npm install bootstrap  react-bootstrap
-```
--CORS
-```sh
-npm install CORS
+npm start
 ```
